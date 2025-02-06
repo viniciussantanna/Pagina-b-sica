@@ -1,0 +1,19 @@
+{
+  "name": "WEB",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^12.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
